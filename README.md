@@ -108,13 +108,13 @@ Fungsi `get_modified_graph()` akan menonaktifkan akses ke simpul tertentu (misal
 * Integrasi database lokal untuk penyimpanan rute historis.
 * Penambahan layer filter (misal: hanya gedung akademik).
 
-## 🤝 Kontribusi
+## 🖼️ Hasil Uji Coba Bellman Ford Pada Peta Universitas Bengkulu
 
-Pull request sangat diterima! Untuk perubahan besar, harap buka *issue* terlebih dahulu untuk mendiskusikan apa yang ingin diubah.
+### Menggunakan Sepeda Motor
+![GUI Motor](GUI_AI.png)
+### Menggunakan Mobil
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License - silakan lihat file [LICENSE](LICENSE) untuk detailnya.
+### Menggunakan Jalan Kaki
 
 ## 🙌 Kredit
 
