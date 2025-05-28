@@ -111,10 +111,17 @@ Fungsi `get_modified_graph()` akan menonaktifkan akses ke simpul tertentu (misal
 ## 🖼️ Hasil Uji Coba Bellman Ford Pada Peta Universitas Bengkulu
 
 ### Menggunakan Sepeda Motor
-![GUI Motor](GUI_AI.png)
-### Menggunakan Mobil
+![GUI Motor](Uji_coba_dengan_motor.png)
 
+![GUI Motor](Uji_coba_dengan_motor_2.png)
+
+![GUI Motor](Uji_coba_dengan_motor_3.png)
+### Menggunakan Mobil
+![GUI Mobil](Uji_coba_dengan_Mobil.png)
+
+![GUI Mobil](Uji_coba_dengan_Mobil_2.png)
 ### Menggunakan Jalan Kaki
+![GUI Jalan](Uji_coba_dengan_jalan_kaki.png)
 
 ## 🙌 Kredit
 
