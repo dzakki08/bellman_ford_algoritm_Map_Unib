@@ -12,7 +12,8 @@ Proyek ini adalah aplikasi berbasis Python dengan antarmuka GUI menggunakan `Tki
 
 ## 🖼️ Tampilan Antarmuka
 
-> (Tambahkan screenshot GUI jika tersedia)
+### GUI Aplikasi
+![GUI Aplikasi](GUI AI.png)
 
 ## 📂 Struktur Proyek
 
