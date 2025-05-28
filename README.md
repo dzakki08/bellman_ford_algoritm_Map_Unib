@@ -21,9 +21,8 @@ Proyek ini adalah aplikasi berbasis Python dengan antarmuka GUI menggunakan `Tki
 
 proyek-jalur-unib/
 ├── main.py                 # File utama aplikasi
-├── README.md               # Dokumentasi proyek ini
-└── (output HTML peta akan dibuat otomatis saat aplikasi dijalankan)
-
+└── README.md               # Dokumentasi proyek ini
+ 
 ````
 
 ## 🔧 Instalasi dan Menjalankan Aplikasi
@@ -100,13 +99,6 @@ Fungsi `get_modified_graph()` akan menonaktifkan akses ke simpul tertentu (misal
 * tkinter
 * folium
 * openrouteservice
-
-## 💡 Rencana Pengembangan
-
-* Menambahkan algoritma pencarian rute (misal: Bellman-Ford atau Dijkstra).
-* Menambahkan mode transportasi (jalan kaki, sepeda, motor).
-* Integrasi database lokal untuk penyimpanan rute historis.
-* Penambahan layer filter (misal: hanya gedung akademik).
 
 ## 🖼️ Hasil Uji Coba Bellman Ford Pada Peta Universitas Bengkulu
 
